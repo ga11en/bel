@@ -1,0 +1,11 @@
+# Studio place files live outside git; dated backups go to ~/Backups/bel-roblox
+*.rbxl
+*.rbxlx
+*.rbxl.lock
+*.rbxlx.lock
+
+# Rojo
+sourcemap.json
+
+# macOS
+.DS_Store

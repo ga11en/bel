@@ -1,0 +1,24 @@
+{
+  "name": "bel",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "Bel": {
+        "$path": "src/server"
+      }
+    },
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      }
+    },
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    }
+  }
+}
